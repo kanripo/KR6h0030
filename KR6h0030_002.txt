@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:04.487225
+#+DATE: 2015-08-30 20:07:06.261496
 #+TITLE: 奮迅王問經
 #+PROPERTY: CBETA_ID T13n0421
 #+PROPERTY: ID KR6h0030
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 421
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6h0030_T_000-0935b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6h0030_T_002-0942a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《奮迅王問經》卷下¶
+《奮迅王問經》卷下¶
 ¶
-元魏婆羅門瞿曇般若流支譯¶
+元魏婆羅門瞿曇般若流支譯婆羅門瞿曇般若流支譯¶
 
 爾時，奮迅王菩薩白佛言：「世尊！若有法者，可¶
 有見法？若有見法，可見如來？」
