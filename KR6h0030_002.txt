@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:04.487225
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:20
 #+TITLE: 奮迅王問經
 #+PROPERTY: CBETA_ID T13n0421
 #+PROPERTY: ID KR6h0030
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 421
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6h0030_T_000-0935b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6h0030_T_002-0942a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《奮迅王問經》卷下¶
+《奮迅王問經》卷下¶
 ¶
-元魏婆羅門瞿曇般若流支譯¶
+元魏〔婆羅門瞿曇〕－【宋】【宮】，三藏瞿曇【元】【明】〔婆羅門瞿曇〕－【宋】【宮】，＝三藏瞿曇【元】【明】婆羅門瞿曇般若流支＋（等）【三】【宮】支＋（等）【宋】【元】【明】【宮】支譯婆羅門瞿曇般若流支譯¶
 
 爾時，奮迅王菩薩白佛言：「世尊！若有法者，可¶
 有見法？若有見法，可見如來？」
@@ -663,7 +662,7 @@
 塊、無可知見；退已復到餘佛世界現見如¶
 來。¶
 
-「大王如來并諸菩薩不著袈裟，皆著清淨妙¶
+「天王如來并諸菩薩不著袈裟，皆著清淨妙¶
 好天衣。彼不學戒而悉調順，一切皆得無生¶
 法忍，為菩薩眾不廣說法。何以故？彼眾一¶
 切少聞多解，以利根故。若彼如來為諸菩薩¶
